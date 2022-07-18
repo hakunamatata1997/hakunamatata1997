@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheAkhilB
-- 👀 I’m interested in FOSS,MLOps,DevOps
+- 👀 I’m interested in Data Science,FOSS,MLOps,DevOps
 - 🌱 I’m currently learning MLOps
 - 💞️ I’m looking to collaborate on Data Science,DevOps,MLOps
 - 📫 How to reach me: theakhil@riseup.net
