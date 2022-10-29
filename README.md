@@ -3,6 +3,9 @@
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me: theakhil@riseup.net
 
+
+[![@hakunamatata1997's Holopin board](https://holopin.me/hakunamatata1997)](https://holopin.io/@hakunamatata1997)
+
 <div align="center">
 
 <hr>
