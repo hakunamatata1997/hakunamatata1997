@@ -1,7 +1,7 @@
 - 👋 Hi there!!
-- 👀 I’m interested in Data Science,FOSS,MLOps
-- 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me: theakhil@riseup.net
+- 👀 I’m currently working in the field of Data Science
+- 💞️ I’m looking to collaborate on FOSS Projects
+- 📫 How to reach me: theakhilkumarb@gmail.com
 
 
 [![@hakunamatata1997's Holopin board](https://holopin.me/hakunamatata1997)](https://holopin.io/@hakunamatata1997)
