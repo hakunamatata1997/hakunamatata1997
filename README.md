@@ -1,6 +1,6 @@
 - 👋 Hi there!!
 - 👀 I’m currently working in the field of Data Science
-- 💞️ I’m looking to collaborate on FOSS Projects
+- 💞️ Open for Collaboration!
 - 📫 How to reach me: theakhilkumarb@gmail.com
 
 
