@@ -6,8 +6,13 @@
 
 [![@hakunamatata1997's Holopin board](https://holopin.me/hakunamatata1997)](https://holopin.io/@hakunamatata1997)
 
-<div align="center">
 
+
+[![Akhil's GitHub stats](https://github-readme-stats-tan-phi.vercel.app/api?username=hakunamatata1997&count_private=true&layout=compact&theme=gotham)](https://github.com/yuenherny/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-tan-phi.vercel.app/api/top-langs/?username=hakunamatata1997&count_private=false@langs_count=8&layout=compact&theme=gotham)](https://github.com/yuenherny/github-readme-stats)
+<div align="center">
+  
 <hr>
 
   <h1>Connect With Me :inbox_tray: </h1>
