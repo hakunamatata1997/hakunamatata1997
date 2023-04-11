@@ -14,7 +14,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakunamatata1997)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[![Top Langs](https://github-readme-stats-tan-phi.vercel.app/api/top-langs/?username=hakunamatata1997&count_private=false@langs_count=8&layout=compact&theme=chartreuse-dark)](https://github.com/yuenherny/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tan-phi.vercel.app/api/top-langs/?username=hakunamatata1997&count_private=false@langs_count=8&layout=default&theme=chartreuse-dark)](https://github.com/yuenherny/github-readme-stats)
 
 <div align="center">
   
