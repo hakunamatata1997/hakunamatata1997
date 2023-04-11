@@ -16,6 +16,13 @@
 
 <!-- [![Top Langs](https://github-readme-stats-tan-phi.vercel.app/api/top-langs/?username=hakunamatata1997&hide_progress=true&count_private=false@langs_count=8&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,html,css,js,git,docker,kubernetes,jenkins,linux,gcp" />
+  </a>
+</p>
+
+
 <div align="center">
   
 <hr>
