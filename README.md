@@ -8,10 +8,10 @@
 
 
 
-[![Akhil's GitHub stats](https://github-readme-stats-tan-phi.vercel.app/api?username=hakunamatata1997&count_private=true&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Akhil's GitHub stats](https://github-readme-stats-tan-phi.vercel.app/api?username=hakunamatata1997&count_private=true&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/hakunamatata1997/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakunamatata1997&hide_progress=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakunamatata1997&hide_progress=true&theme=chartreuse-dark)](https://github.com/hakunamatata1997/github-readme-stats)
 
 
 <!-- [![Top Langs](https://github-readme-stats-tan-phi.vercel.app/api/top-langs/?username=hakunamatata1997&hide_progress=true&count_private=false@langs_count=8&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) -->
