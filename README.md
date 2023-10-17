@@ -3,6 +3,7 @@
 - 💞️ Open for Collaboration!
 - 📫 How to reach me: theakhilkumarb@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hakunamatata1997&label=Profile%20views&color=0e75b6&style=flat" alt="AkankshaAI" /> </p>
 
 [![@hakunamatata1997's Holopin board](https://holopin.me/hakunamatata1997)](https://holopin.io/@hakunamatata1997)
 
