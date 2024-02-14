@@ -1,5 +1,5 @@
 - 👋 Hi there!!
-- 👀 I’m currently working in the field of Data Science
+- 👀 I’m currently working in the field of Gen AI, Computer Vision and MLOps
 - 💞️ Open for Collaboration!
 - 📫 How to reach me: theakhilkumarb@gmail.com
 
