@@ -95,8 +95,7 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakunamatata1997&hide_progress=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=12&layout=compact" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hakunamatata1997&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF" alt="Wakatime Stats"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakunamatata1997&hide_progress=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=12&layout=compact" alt="Top Languages"/>
 </p>
 
 <!-- 3D Contribution Graph -->
@@ -300,19 +299,12 @@
 <!-- Rainbow Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Snake Animation Section -->
+<!-- Contribution Heatmap Section -->
 <div align="center">
 
-## 🐍✨ **WATCH THE SNAKE EAT MY CONTRIBUTIONS!** ✨🐍
+## 🔥💎 **CONTRIBUTION HEATMAP** 💎🔥
 
-![Snake animation](https://raw.githubusercontent.com/hakunamatata1997/hakunamatata1997/output/github-contribution-grid-snake-dark.svg)
-
-<!-- Alternative: Light Mode Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hakunamatata1997/hakunamatata1997/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hakunamatata1997/hakunamatata1997/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hakunamatata1997/hakunamatata1997/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://ghchart.rshah.org/FF6EC7/hakunamatata1997" alt="GitHub Contribution Heatmap" width="90%"/>
 
 </div>
 
@@ -394,18 +386,6 @@ while(alive) {
 <!-- Rainbow Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- GitHub Contribution Calendar -->
-<div align="center">
-
-## 📅🎨 **CONTRIBUTION CALENDAR** 🎨📅
-
-<img src="https://ghchart.rshah.org/FF6EC7/hakunamatata1997" alt="Akhil's GitHub Contribution Chart" width="90%"/>
-
-</div>
-
-<!-- Colorful Wave -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Pinned Repos Section -->
 <div align="center">
